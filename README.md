@@ -1,10 +1,10 @@
 # FinalProgram-CaesarCipher
 create a caesar cipher code
 
-● A brief summary about what each file in your program is doing
-
 Danela Agpaoa
 823622235
+May 14, 2020
+
 File: Application - calls the caesar cipher code from CaesarShift.
 File: CaesarShift - gets input from the user to correctly shift the user's message based on their specified shift number.
 File: alphabetSorting - interface that defines method needed to correctly sort the file that holds a scrambled version of the alphabet.
